@@ -44,8 +44,8 @@
 ----------------------------------------
 
 # 성능 평가 결과서
-[성능평가결과서(최종).pdf]https://github.com/whynotsw-camp/1-_AICC-/blob/main/%EC%84%B1%EB%8A%A5%ED%8F%89%EA%B0%80%EA%B2%B0%EA%B3%BC%EC%84%9C(%EC%B5%9C%EC%A2%85).pdf
------------------------------------------
+**https://github.com/whynotsw-camp/1-_AICC-/blob/main/%EC%84%B1%EB%8A%A5%ED%8F%89%EA%B0%80%EA%B2%B0%EA%B3%BC%EC%84%9C(%EC%B5%9C%EC%A2%85).pdf
+**-----------------------------------------
 
 # 최종 보고서
 [최종보고서(발표자료).pptx]https://github.com/whynotsw-camp/1-_AICC-/blob/main/%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C(%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C).pptx
