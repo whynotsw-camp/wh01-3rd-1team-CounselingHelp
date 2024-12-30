@@ -30,7 +30,7 @@ whynotsw-camp 3rd-template 레포지토리입니다.
 ---------------------------------------
 
 # 요구사항 정의서
-[요구사항 정의서](https://github.com/whynotsw-camp/1-_AICC-/blob/main/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C(%EC%B5%9C%EC%A2%85).xlsx)
+[요구사항정의서(최종).xlsx](https://github.com/whynotsw-camp/1-_AICC-/blob/main/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C(%EC%B5%9C%EC%A2%85).xlsx)
 
 ----------------------------------------
 
@@ -40,7 +40,7 @@ whynotsw-camp 3rd-template 레포지토리입니다.
 
 # 모델 정의서
 
-[모델 정의서]https://github.com/whynotsw-camp/1-_AICC-/blob/main/%EB%AA%A8%EB%8D%B8%EC%A0%95%EC%9D%98%EC%84%9C(%EC%B5%9C%EC%A2%85).pdf
+[모델 정의서.pdf]https://github.com/whynotsw-camp/1-_AICC-/blob/main/%EB%AA%A8%EB%8D%B8%EC%A0%95%EC%9D%98%EC%84%9C(%EC%B5%9C%EC%A2%85).pdf
  
 ----------------------------------------
 
