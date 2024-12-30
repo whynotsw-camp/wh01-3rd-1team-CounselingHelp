@@ -1,4 +1,4 @@
-# 3rd-template
+# 1조 Alll_상담의도움
 whynotsw-camp 3rd-template 레포지토리입니다.
 
 ---------------------------------------
